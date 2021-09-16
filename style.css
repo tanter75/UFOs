@@ -2,8 +2,11 @@ body {
 
     color:ghostwhite ;
   }
-.jumbotron {
-    background-image: url("nasa.jpg");
-    background-size: 50px 130px, auto;
-    text-align: center;
+
+
+  .hero-image {
+    background: url("nasa.jpg") no-repeat center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
   }
