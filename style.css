@@ -3,8 +3,7 @@ body {
     color:ghostwhite ;
   }
 
-
-  .hero-image {
+  .jumobtron {
     background: url("nasa.jpg") no-repeat center;
     background-size: cover;
     height: 50px;
