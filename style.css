@@ -4,8 +4,7 @@ body {
   }
 
   .jumobtron {
-    background: url("nasa.jpg") no-repeat center;
+    background-image: url("nasa.jpg");
     background-size: cover;
-    height: 50px;
-    position: relative;
+    position: center;
   }
