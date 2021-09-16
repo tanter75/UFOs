@@ -4,6 +4,6 @@ body {
   }
 .jumbotron {
     background-image: url("nasa.jpg");
-    background-size: 100px 100px;
+    background-size: 50px 130px, auto;
     text-align: center;
   }
